@@ -1,0 +1,24 @@
+{
+    "name": "simply-static",
+    "version": "0.0.1",
+    "description": "simply-static, the ideal workflow for static web apps",
+    "main": "?",
+    "type": "module",
+    "scripts": {
+      "start": "gulp",
+      "build": "gulp build"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "gulp": "^4.0.2",
+      "gulp-connect": "^5.7.0",
+      "sass": "^1.66.1",
+      "ts-loader": "^9.4.4",
+      "typescript": "^5.2.2",
+      "webpack": "^5.88.2",
+      "webpack-stream": "^7.0.0",
+      "gulp-sass": "^5.1.0"
+    }
+  }
